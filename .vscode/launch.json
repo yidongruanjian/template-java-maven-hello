@@ -3,6 +3,13 @@
     "configurations": [
       {
         "type": "java",
+        "name": "Main3",
+        "request": "launch",
+        "mainClass": "org.example.Main3",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
         "name": "Maini",
         "request": "launch",
         "mainClass": "org.example.Maini",
